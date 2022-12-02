@@ -51,7 +51,7 @@ const config = {
         },
         items: [
           {
-            to: "/docs",
+            to: "https://buildwithfern.com/docs",
             position: "left",
             label: "Docs",
           },
