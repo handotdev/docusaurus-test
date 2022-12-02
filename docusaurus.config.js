@@ -51,16 +51,10 @@ const config = {
         },
         items: [
           {
-            href: "/docs",
+            to: "/docs",
             position: "left",
             label: "Docs",
           },
-          // {
-          //     docId: "intro",
-          //     position: "left",
-          //     label: "Pricing",
-          //     to: "/pricing",
-          // },
           {
             to: "https://discord.gg/JkkXumPzcG",
             label: "Discord",
