@@ -10,7 +10,7 @@ const config = {
   tagline: "Define your API once.",
   url: "https://buildwithfern.com",
   baseUrl: "/",
-  onBrokenLinks: "throw",
+  onBrokenLinks: "log",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
 
